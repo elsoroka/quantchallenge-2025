@@ -4,3 +4,5 @@ matplotlib
 jupyter
 tqdm
 scikit-learn
+torch
+torcheval
